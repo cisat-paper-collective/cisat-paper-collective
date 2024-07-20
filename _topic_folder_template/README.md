@@ -1,0 +1,3 @@
+- [LLVM: A Compilation Framework for Lifelong Program Analysis & Transformation](https://llvm.org/pubs/2004-01-30-CGO-LLVM.pdf)
+  - Introduces what would become a comprehensive compiler framework; developed a new intermediate representation (IR) that that is language-agnostic to allow low-level code management and optimization
+  - read more about the current state of the project [here](https://llvm.org/)
