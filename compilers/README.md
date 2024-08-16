@@ -1,1 +1,5 @@
-
+- [The Correctness-Security Gap in Compiler Optimizations](https://doi.org/10.1109/SPW.2015.33)
+  - Looks at correct optimizations done by compilers that introduce security risks
+  - Outline a number of clear, easy to understand examples of scenarios of where optimizations defeat security techniques
+  - Provide recommendations for future work on including security in the idea of "correctness" of compiler core changes
+  - read more about LLVM [here](https://llvm.org/)
