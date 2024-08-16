@@ -2,4 +2,4 @@
   - Looks at correct optimizations done by compilers that introduce security risks
   - Outline a number of clear, easy to understand examples of scenarios of where optimizations defeat security techniques
   - Provide recommendations for future work on including security in the idea of "correctness" of compiler code changes
-  - read more about LLVM [here](https://llvm.org/)
+  - read more about a popular optimizing compiler, LLVM, [here](https://llvm.org/)
